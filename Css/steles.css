@@ -26,3 +26,10 @@ span1:first-child {
 span1:last-child {
   color: blue;
 }
+
+body {
+  background: url(2022-08-23T095500Z_1772355327_RC282W9B5WF2_RTRMADP_3_UKRAINE-CRISIS-FLAG-DAY.jpg)
+    no-repeat center;
+  height: 100vh;
+  background-attachment: fixed;
+}
