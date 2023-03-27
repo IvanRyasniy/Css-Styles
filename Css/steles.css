@@ -1,0 +1,28 @@
+.text_0 {
+  text-align: center;
+  font-family: "Russo One", sans-serif;
+  font-size: 2em;
+}
+
+.text_1 {
+  text-align: center;
+  font-family: "Michroma", sans-serif;
+  font-style: initial;
+  font-size: medium;
+  font-weight: 800;
+}
+
+span:first-child {
+  color: blue;
+  font-size: 1.5em;
+}
+span:last-child {
+  color: yellow;
+  font-size: 1.5em;
+}
+span1:first-child {
+  color: yellow;
+}
+span1:last-child {
+  color: blue;
+}
